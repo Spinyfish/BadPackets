@@ -1,4 +1,4 @@
-##Player Action
+## Player Action
 
 Player Action has 6 states.
 
